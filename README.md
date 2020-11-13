@@ -562,6 +562,7 @@ Here is a list of community-conitributed IDE plug-ins that integrate with OpenAP
 ## [4 - Companies/Projects using OpenAPI Generator](#table-of-contents)
 Here are some companies/projects (alphabetical order) using OpenAPI Generator in production. To add your company/project to the list, please visit [README.md](README.md) and click on the icon to edit the page.
 
+- [3CX](https://www.3cx.com/)
 - [Adaptant Solutions AG](https://www.adaptant.io/)
 - [adesso SE](https://www.adesso.de/)
 - [Agoda](https://www.agoda.com/)
